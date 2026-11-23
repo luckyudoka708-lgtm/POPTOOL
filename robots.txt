@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /creator
+Disallow: /api/
+
+Sitemap: https://poptools.app/sitemap.xml
